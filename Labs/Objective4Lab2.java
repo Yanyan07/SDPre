@@ -22,5 +22,6 @@ public class Objective4Lab2{
     System.out.println("The sum of "+num1+" + "+num2+" + "+num3+" = "+(num1+num2+num3));
     System.out.println("The sum of "+dub1+" + "+dub2+" + "+dub3+" = "+(dub1+dub2+dub3));
 
+    keyboard.close();
   }
 }
