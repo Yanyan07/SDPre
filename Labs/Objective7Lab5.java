@@ -18,7 +18,7 @@ public class Objective7Lab5{
         System.out.println("Hello Human");
       }else if(selection == 2){
         System.out.println("Apples, Bananas, Coconuts");
-      }else{
+      }else if(selection == 3){
         System.out.println("Goodbye");
         break;
       }
